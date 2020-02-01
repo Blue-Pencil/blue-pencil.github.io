@@ -3,17 +3,16 @@
 ## Breaking the Unthinkable.
  **![bp_logo](https://i.postimg.cc/SNKz6G9L/bp-trans-20.png) bluepencil** (Yun Gyeongmin)
  
- **![smu_logo](https://i.postimg.cc/NfP2pr83/smu-20.png) Sunmoon University** Computer science and engineering `since 2020`
- 
-	- Team SE:RA
-	- Team Vanilla
+-Team SE:RA
+
+-Team Vanilla
   
 * Contact
-	* [Mastodon](https://twingyeo.com/BluePencil) / [Facebook](facebook) / [GitHub](https://github.com/Blue-Pencil) / Riot `@bluepencil:matrix.org`
+	* [Mastodon](https://twingyeo.com/BluePencil) / [Facebook](https://facebook.com) / [Email](mailto:bluepencil@yahoo.com) / Riot `@bluepencil:matrix.org`
 * Interests
 	* Rhythm Games **_Blue.P_**
 		* [PlayLog](http://rhythmbase.top)
-		* [Playing Games List](https://wiki.rhythm.lol/wiki/사용자:BlueP)
+		* [Playing List](https://wiki.rhythm.lol/wiki/사용자:BlueP)
 		* THE IDOLM@STER Million Live: Theater Days KRserver `Android`
         * Bang Dream! Girls Band Party KRserver `Android`
 	* Video Games
@@ -44,7 +43,7 @@
 	* AudioDic
 	* Team EP
 	* .SmashKeys
-	* STAYPLAY (Android Application/PWA Service)
+	* STAYPLAY (Android Application)
 	* personal blog
     * Github Pages profile page 
 * Devices
