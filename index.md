@@ -1,19 +1,19 @@
 ![rin](https://pbs.twimg.com/media/DVpvacRVAAAT1jt?format=jpg)
 
 ## Breaking the Unthinkable.
- **![bp_logo](https://i.postimg.cc/SNKz6G9L/bp-trans-20.png) bluepencil** (Yun Gyeongmin)
+ **![bp_logo](https://i.postimg.cc/T36cnP7t/bp-2004-20px.jpg) bluepencil** (Yun Gyeongmin)
  
 -Team SE:RA
 
 -Team Vanilla
   
 * Contact
-	* [Mastodon](https://twingyeo.com/BluePencil) / [Facebook](https://facebook.com) / [Email](mailto:bluepencil@yahoo.com) / Riot `@bluepencil:matrix.org`
+	* [Mastodon](https://twingyeo.com/BluePencil) / [Facebook](https://fb.me/ygmbp) / [Email](mailto:bluepencil@yahoo.com) / Riot `@bluepencil:matrix.org`
 * Interests
 	* Rhythm Games **_Blue.P_**
 		* [PlayLog](http://rhythmbase.top)
 		* [Playing List](https://wiki.rhythm.lol/wiki/사용자:BlueP)
-		* THE IDOLM@STER Million Live: Theater Days KRserver `Android`
+		* THE IDOLM@STER Million Live: Theater Days KRserver `MTEFXJSJ`
         * Bang Dream! Girls Band Party KRserver `Android`
 	* Video Games
 		* GTA Online
@@ -47,12 +47,10 @@
 	* personal blog
     * Github Pages profile page 
 * Devices
-
-Windows: Desktop (i5-6600, 32G RAM, GTX970)
-
-Mobile: OnePlus 7 Pro, LG V30, LG V10
-
-Tablet: Xiaomi Mi Pad 4, 4 Plus(Celluler)
+ * PC: Desktop (Ryzen 5 3600, 24G RAM, GTX970)
+ * Laptop (i7-9750H, 16G RAM, GTX1650)
+ * Mobile: OnePlus 7 Pro, LG V30, LG G6, LG V10
+ * Tablet: Xiaomi Mi Pad 4, 4 Plus(Cellular)
 
 * Fav Character
 
