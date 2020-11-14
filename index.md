@@ -55,9 +55,10 @@ _Breaking the unthinkable._ 넓고 얕은 사람입니다.
     -   [The Triggerence](https://triggerence.com)
     -   [TechSpeak](https://rentry.co/TechSpeak)
     -   TechLatte
--   personal blog
-    -   Github Pages profile page
+-   Personal blog
+
 -----
+
 -   [LOCKON](https://medium.com/@panavision)
 -   AudioDic
 -   Team EP
